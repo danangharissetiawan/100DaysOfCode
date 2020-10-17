@@ -8,6 +8,14 @@
 
 **Link to work:** [Days 01](https://github.com/danangharissetiawan/100DaysOfCode/tree/master/01_Days/01Days_Dart)
 
+### Day 2: October 17, 2020
+
+**Today's Progress**: Basic Dart Langguage. Loops, if else, switch.
+
+**Thoughts:** fun day can learn loops and conditional construction / decision making in dart language.
+
+**Link to work:** [Days 02](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
 
 
 ## Contents
