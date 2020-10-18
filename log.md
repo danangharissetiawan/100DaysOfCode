@@ -22,7 +22,7 @@
 
 **Thoughts:** thank you, today I have studied the material of number data types, number properties and number methods more specifically in the dart programming language..
 
-**Link to work:** [Days 02](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+**Link to work:** [Days 03](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
 
 
