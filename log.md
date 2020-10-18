@@ -16,6 +16,14 @@
 
 **Link to work:** [Days 02](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
+### Day 3: October 18, 2020
+
+**Today's Progress**: Basic Dart Langguage. Numbers, Properties and Method Numbers.
+
+**Thoughts:** thank you, today I have studied the material of number data types, number properties and number methods more specifically in the dart programming language..
+
+**Link to work:** [Days 02](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
 
 
 ## Contents
