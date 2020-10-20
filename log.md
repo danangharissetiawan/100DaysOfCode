@@ -37,6 +37,15 @@
 **Link to work:** [Days 04](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
 
+### Day 5: October 20, 2020
+
+**Today's Progress**: Basic Dart Langguage. Boolean, Lists and Manipulate lists.
+
+**Thoughts:** Alhamdulillah, my task has been completed, although a little is important to be consistent, today's material is Boolean, manipulating lists and lists in the Dart programming language.
+
+**Link to work:** [Days 05](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
