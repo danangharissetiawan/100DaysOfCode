@@ -46,6 +46,15 @@
 **Link to work:** [Days 05](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
 
+### Day 6: October 21, 2020
+
+**Today's Progress**: Basic Dart Langguage. Maps, Properti and Maps Methods.
+
+**Thoughts:** The Map object is a simple key/value pair. Keys and values in a map may be of any type. A Map is a dynamic collection. In other words, Maps can grow and shrink at runtime.
+
+**Link to work:** [Days 06](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
