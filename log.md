@@ -55,6 +55,15 @@
 **Link to work:** [Days 06](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
 
+### Day 7: October 22, 2020
+
+**Today's Progress**: Basic Dart Langguage. Symbol.
+
+**Thoughts:** Mbuh ah ga gong patio mudeng.
+
+**Link to work:** [Days 07](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
