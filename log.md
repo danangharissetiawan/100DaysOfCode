@@ -63,6 +63,14 @@
 
 **Link to work:** [Days 07](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
+### Day 8: October 23, 2020
+
+**Today's Progress**: Basic Dart Langguage. Runes and Enumeration.
+
+**Thoughts:**Since a Dart string is a sequence of UTF-16 code units, 32-bit Unicode values within a string are represented using a special syntax. A rune is an integer representing a Unicode code point. And An enumeration is used for defining named constant values.
+
+**Link to work:** [Days 08](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
 
 ## Contents
 * [Rules](rules.md)
