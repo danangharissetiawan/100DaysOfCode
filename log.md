@@ -72,6 +72,33 @@
 **Link to work:** [Days 08](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
 
+### Day 9: October 24, 2020
+
+**Today's Progress**: Customization vscode.
+
+**Thoughts:** ...
+
+**Link to work:** [Days 09](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
+### Day 10: October 25, 2020
+
+**Today's Progress**: Customization Github Profile.
+
+**Thoughts:** Github next level.
+
+**Link to work:** [Days 10](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
+### Day 11: October 26, 2020
+
+**Today's Progress**: Basic Dart Langguage: Function.
+
+**Thoughts:** Functions are the building blocks of readable, maintainable, and reusable code. A function is a set of statements to perform a specific task. Functions organize the program into logical blocks of code.
+
+**Link to work:** [Days 11](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
