@@ -96,6 +96,14 @@
 
 **Link to work:** [Days 12](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
 
+### Day 13: October 30, 2020
+
+**Today's Progress**: Basic Dart Langguage: Classes.
+
+**Thoughts:** fields, constructors, getter, setter, functions.
+
+**Link to work:** [Days 13](https://github.com/danangharissetiawan/100DaysOfCode/blob/master/log.md)
+
 ## Contents
 
 - [Rules](rules.md)
